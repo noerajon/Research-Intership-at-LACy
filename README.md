@@ -20,7 +20,7 @@ If you are interested in having an overview of the current aerosols type at la R
 
    --> A new window will appear and click on "Accept"
 
-4. Preparing the data
+3. Preparing the data
 
 --> Unzip the file that you just downloaded and go through the folder until you find the file with the LEV20 extension
 
@@ -30,7 +30,7 @@ If you are interested in having an overview of the current aerosols type at la R
 If there are no files or more than one file an error will be raised when the script will be launched.
 You will remark that once you downloaded the repository there is already a file in the corresponding folder, it is just for the example.
 
-5. Aerosol typings
+4. Aerosol typings
 
 --> With a python interpreter, open the script called "AEROSOL_TYPING_Current_typing" and Run the script.
 
